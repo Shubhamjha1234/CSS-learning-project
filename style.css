@@ -1,0 +1,14 @@
+#First{
+    background-color: aquamarine ;
+    border: 5px solid skyblue;
+    height: 300px;
+    width: 300px;
+    padding: 10px
+    border top: 10px;
+}
+
+.second{
+    background-color: aqua;
+    font: italic 500 1rem serif ;
+}
+
